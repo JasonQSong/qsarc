@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:JasonQSong/qsarc.git",
   "author": "Jason Song <qsong@twitter.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.21.0"
+  }
 }
