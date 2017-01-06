@@ -1,0 +1,8 @@
+{
+  "name": "qsarc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JasonQSong/qsarc.git",
+  "author": "Jason Song <qsong@twitter.com>",
+  "license": "MIT"
+}
